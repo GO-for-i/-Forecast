@@ -1,0 +1,7 @@
+data\0\1_scale.jpg	0
+data\1\212312_rotate.jpg	1
+data\0\1_vertical.jpg	0
+data\0\1_salt.jpg	0
+data\1\212312_vertical.jpg	1
+data\1\212312_scale.jpg	1
+data\1\212312_salt.jpg	1
