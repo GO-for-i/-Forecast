@@ -1,8 +1,3 @@
-'''
-    功能：按着路径，导入单张图片做预测
-    作者： Leo在这
-
-'''
 from torchvision.models import resnet18
 import torch
 from PIL import Image
